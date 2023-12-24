@@ -1,3 +1,4 @@
+// Joke.js
 import React, { Component } from "react";
 import "./Joke.css";
 
